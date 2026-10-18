@@ -5,10 +5,8 @@
   <img src="assets/banner.svg" width="100%" alt="Sakda Baokham · Computer Engineering @ RMUTT"/>
 </p>
 
-<h2 align="center">สวัสดีครับ 🙏 I'm Sakda Baokham</h2>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakda1306&style=for-the-badge&color=486551&label=PROFILE+VIEWS" alt="profile views"/>
+  <img src="assets/greeting.svg" width="100%" alt="สวัสดีครับ 🙏 I'm Sakda Baokham"/>
 </p>
 
 ## 🐈‍⬛ About Me

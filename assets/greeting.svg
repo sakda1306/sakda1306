@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 170" width="1600" height="170" role="img" aria-label="สวัสดีครับ I'm Sakda Baokham">
+  <style>
+    .hi   { font: 700 52px 'Leelawadee UI', 'Noto Sans Thai', 'Segoe UI', Tahoma, sans-serif; fill: #F3E9D2; }
+    .name { fill: #FC643B; }
+    .sub  { font: 500 22px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #A7966B; letter-spacing: 3px; }
+  </style>
+  <defs><clipPath id="card"><rect x="2" y="2" width="1596" height="166" rx="22"/></clipPath></defs>
+  <g clip-path="url(#card)">
+    <rect x="2" y="2" width="1596" height="166" fill="#0F191B"/>
+    <rect x="2" y="2" width="14" height="166" fill="#FC643B"/>
+    <rect x="1584" y="2" width="14" height="166" fill="#FC643B"/>
+  </g>
+  <rect x="2" y="2" width="1596" height="166" rx="22" fill="none" stroke="#486551" stroke-width="3"/>
+  <text x="800" y="88" text-anchor="middle" class="hi">สวัสดีครับ 🙏 I'm <tspan class="name">Sakda Baokham</tspan></text>
+  <text x="800" y="132" text-anchor="middle" class="sub">WELCOME TO MY CORNER OF GITHUB · MAKE YOURSELF AT HOME 🐈‍⬛</text>
+</svg>
