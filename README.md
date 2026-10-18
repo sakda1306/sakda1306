@@ -2,19 +2,12 @@
 
 <!-- Header -->
 <p align="center">
-  <img src="assets/banner.jpg" width="100%" alt="banner"/>
+  <img src="assets/banner.svg" width="100%" alt="Sakda Baokham · Computer Engineering @ RMUTT"/>
 </p>
 
 <h2 align="center">สวัสดีครับ 🙏 I'm Sakda Baokham</h2>
 
 <p align="center">
-  <a href="https://github.com/sakda1306">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FC643B&center=true&vCenter=true&width=620&lines=sakda1306+here+%F0%9F%94%A5+!;RAG+%26+Agentic+AI+Builder;FastAPI+Backend+Developer;Computer+Vision+Enthusiast" alt="Typing SVG"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Engineering-RMUTT-FC643B?style=for-the-badge&labelColor=0F191B"/>
   <img src="https://komarev.com/ghpvc/?username=sakda1306&style=for-the-badge&color=486551&label=PROFILE+VIEWS" alt="profile views"/>
 </p>
 
