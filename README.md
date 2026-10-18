@@ -1,19 +1,24 @@
+<!-- Palette from the banner: orange #FC643B · cat black #0F191B · jacket green #486551 · eye yellow #F2C14E · cream #F3E9D2 · ledge #A7966B -->
+
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=220&section=header&text=Sakda%20Baokham&fontSize=58&fontColor=e0def4&fontAlignY=38&desc=Computer%20Engineering%20%40%20RMUTT&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="header"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sakda1306">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=620&lines=sakda1306+here+%F0%9F%94%A5+!;RAG+%26+Agentic+AI+Builder;FastAPI+Backend+Developer;Computer+Vision+Enthusiast" alt="Typing SVG"/>
-  </a>
+  <img src="assets/banner.jpg" width="100%" alt="banner"/>
 </p>
 
 <h2 align="center">สวัสดีครับ 🙏 I'm Sakda Baokham</h2>
 
-## 💫 About Me
+<p align="center">
+  <a href="https://github.com/sakda1306">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FC643B&center=true&vCenter=true&width=620&lines=sakda1306+here+%F0%9F%94%A5+!;RAG+%26+Agentic+AI+Builder;FastAPI+Backend+Developer;Computer+Vision+Enthusiast" alt="Typing SVG"/>
+  </a>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=sakda1306&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS" alt="profile views"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer%20Engineering-RMUTT-FC643B?style=for-the-badge&labelColor=0F191B"/>
+  <img src="https://komarev.com/ghpvc/?username=sakda1306&style=for-the-badge&color=486551&label=PROFILE+VIEWS" alt="profile views"/>
+</p>
+
+## 🐈‍⬛ About Me
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340" alt="coding"/>
 
@@ -37,32 +42,32 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG%20%2F%20LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-0F191B?style=for-the-badge&logo=python&logoColor=FC643B"/>
+  <img src="https://img.shields.io/badge/FastAPI-0F191B?style=for-the-badge&logo=fastapi&logoColor=FC643B"/>
+  <img src="https://img.shields.io/badge/Streamlit-0F191B?style=for-the-badge&logo=streamlit&logoColor=FC643B"/>
+  <img src="https://img.shields.io/badge/OpenCV-0F191B?style=for-the-badge&logo=opencv&logoColor=FC643B"/>
+  <img src="https://img.shields.io/badge/MediaPipe-0F191B?style=for-the-badge&logo=google&logoColor=FC643B"/>
+  <img src="https://img.shields.io/badge/NumPy-0F191B?style=for-the-badge&logo=numpy&logoColor=FC643B"/>
+  <img src="https://img.shields.io/badge/FAISS-486551?style=for-the-badge&logo=meta&logoColor=F2C14E"/>
+  <img src="https://img.shields.io/badge/RAG%20%2F%20LLM-486551?style=for-the-badge&logo=openai&logoColor=F2C14E"/>
+  <img src="https://img.shields.io/badge/Jupyter-486551?style=for-the-badge&logo=jupyter&logoColor=F2C14E"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-486551?style=for-the-badge&logo=postgresql&logoColor=F2C14E"/>
+  <img src="https://img.shields.io/badge/Redis-486551?style=for-the-badge&logo=redis&logoColor=F2C14E"/>
+  <img src="https://img.shields.io/badge/Docker-486551?style=for-the-badge&logo=docker&logoColor=F2C14E"/>
+  <img src="https://img.shields.io/badge/Kotlin-FC643B?style=for-the-badge&logo=kotlin&logoColor=0F191B"/>
+  <img src="https://img.shields.io/badge/Android-FC643B?style=for-the-badge&logo=android&logoColor=0F191B"/>
+  <img src="https://img.shields.io/badge/Laravel-FC643B?style=for-the-badge&logo=laravel&logoColor=0F191B"/>
+  <img src="https://img.shields.io/badge/TypeScript-FC643B?style=for-the-badge&logo=typescript&logoColor=0F191B"/>
+  <img src="https://img.shields.io/badge/Git-FC643B?style=for-the-badge&logo=git&logoColor=0F191B"/>
 </p>
 
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/sakda1306/auto-face-blur-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sakda1306&repo=auto-face-blur-project&theme=tokyonight&hide_border=true" alt="auto-face-blur-project"/></a>
-  <a href="https://github.com/sakda1306/Advanced-Topic-in-Computer-Software-Course-Team-D-II"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sakda1306&repo=Advanced-Topic-in-Computer-Software-Course-Team-D-II&theme=tokyonight&hide_border=true" alt="Team D-II"/></a>
-  <a href="https://github.com/sakda1306/04622404-Advanced-Topics-in-Computer-Software"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sakda1306&repo=04622404-Advanced-Topics-in-Computer-Software&theme=tokyonight&hide_border=true" alt="Course work"/></a>
-  <a href="https://github.com/sakda1306/Advanced-Topic-in-Computer-Software-Course-Team-D"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sakda1306&repo=Advanced-Topic-in-Computer-Software-Course-Team-D&theme=tokyonight&hide_border=true" alt="Team D"/></a>
+  <a href="https://github.com/sakda1306/auto-face-blur-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sakda1306&repo=auto-face-blur-project&bg_color=0F191B&title_color=FC643B&text_color=F3E9D2&icon_color=F2C14E&border_color=486551" alt="auto-face-blur-project"/></a>
+  <a href="https://github.com/sakda1306/Advanced-Topic-in-Computer-Software-Course-Team-D-II"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sakda1306&repo=Advanced-Topic-in-Computer-Software-Course-Team-D-II&bg_color=0F191B&title_color=FC643B&text_color=F3E9D2&icon_color=F2C14E&border_color=486551" alt="Team D-II"/></a>
+  <a href="https://github.com/sakda1306/04622404-Advanced-Topics-in-Computer-Software"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sakda1306&repo=04622404-Advanced-Topics-in-Computer-Software&bg_color=0F191B&title_color=FC643B&text_color=F3E9D2&icon_color=F2C14E&border_color=486551" alt="Course work"/></a>
+  <a href="https://github.com/sakda1306/Advanced-Topic-in-Computer-Software-Course-Team-D"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sakda1306&repo=Advanced-Topic-in-Computer-Software-Course-Team-D&bg_color=0F191B&title_color=FC643B&text_color=F3E9D2&icon_color=F2C14E&border_color=486551" alt="Team D"/></a>
 </p>
 
 | Project | What I did | Stack |
@@ -77,22 +82,22 @@
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sakda1306&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
-  <img height="170" src="https://streak-stats.demolab.com/?user=sakda1306&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sakda1306&show_icons=true&include_all_commits=true&count_private=true&bg_color=0F191B&title_color=FC643B&text_color=F3E9D2&icon_color=F2C14E&ring_color=FC643B&border_color=486551" alt="stats"/>
+  <img height="170" src="https://streak-stats.demolab.com/?user=sakda1306&background=0F191B&border=486551&stroke=486551&ring=FC643B&fire=FC643B&currStreakNum=F3E9D2&sideNums=F3E9D2&currStreakLabel=FC643B&sideLabels=F2C14E&dates=A7966B" alt="streak"/>
 </p>
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakda1306&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages"/>
-  <img height="170" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakda1306&layout=compact&langs_count=8&bg_color=0F191B&title_color=FC643B&text_color=F3E9D2&border_color=486551" alt="top languages"/>
+  <img height="170" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&backgroundColor=0F191B&quoteColor=F3E9D2&authorColor=F2C14E&symbolColor=FC643B" alt="dev quote"/>
 </p>
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/sakda1306"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:sakda130646@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/sakda1306"><img src="https://img.shields.io/badge/GitHub-0F191B?style=for-the-badge&logo=github&logoColor=FC643B"/></a>
+  <a href="mailto:sakda130646@gmail.com"><img src="https://img.shields.io/badge/Gmail-FC643B?style=for-the-badge&logo=gmail&logoColor=0F191B"/></a>
 </p>
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,50:1a1b27,100:0d1117&height=120&section=footer" width="100%" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:486551,100:FC643B&height=120&section=footer" width="100%" alt="footer"/>
 </p>
